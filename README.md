@@ -32,4 +32,8 @@ void loop() {
   digitalWrite(ledPin, LOW);
   delay(1000);
 }
+Issue	What you did
+Add Comments in Code	- Resolved 
+Circuit Diagram Missing	- Open 
+Blink Speed Flexibility	- Open 
 
